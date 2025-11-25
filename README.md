@@ -98,7 +98,7 @@ To use PostgreSQL:
 
 ### 3. MongoDB
 The application connects to MongoDB using the `MONGO_URI` environment variable.
-- Default URI: `mongodb+srv://alex_forger:xetImrkz9bEF1txU@test.g3pyyfm.mongodb.net/?appName=test`
+- Default URI: `mongodb+srv://db_user:password@test.g3pyyfm.mongodb.net/?appName=test`
 - **Test Endpoint**: `GET /mongo-test` verifies the connection.
 
 ---
